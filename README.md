@@ -2,6 +2,8 @@
 
 **Project Workflow**
 
+**See Project Flow Chart**
+
 **1. Data Extraction (API → Python)**
 
 Connected to an external API using Python
